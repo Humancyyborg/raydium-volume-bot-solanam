@@ -72,3 +72,9 @@ The Solana Volume Bot is a robust tool for managing multiple transactions on the
 Optimize your Solana transactions today with the Solana Volume Bot!
 
 For more information, check out our [Telegram](https://t.me/sac_volume_bot)
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
